@@ -139,7 +139,7 @@ ul li.checked::before {
 input {
   margin: 0;
   border: none;
-  border-radius: 0;
+  border-radius: 25PX;
   border: 1px solid #fff;
   width: 75%;
   padding: 10px;
@@ -159,7 +159,7 @@ input {
     font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
-    border-radius: 0;
+    border-radius: 25PX;
     border: 1px solid #fff;
 }
 
